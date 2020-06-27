@@ -1,0 +1,8 @@
+Executing script: /Users/mattgola/TQ.py/branching.py
+Script arguments: -1,1
+Output:
+  File "/Users/mattgola/TQ.py/branching.py", line 7
+    if sum_to_use <= 0
+                     ^
+SyntaxError: invalid syntax
+
